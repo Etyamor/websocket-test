@@ -1,0 +1,17 @@
+{
+    "name": "maksym.rutkovskyi/html",
+    "autoload": {
+        "psr-4": {
+            "MaksymRutkovskyi\\Html\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "DDEV User",
+            "email": "nobody@example.com"
+        }
+    ],
+    "require": {
+        "cboden/ratchet": "^0.4.4"
+    }
+}
